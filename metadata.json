@@ -1,0 +1,8 @@
+{
+  "name": "Profundización BMS — Diagnóstico Estratégico",
+  "description": "Aplicación de diagnóstico y profundización estratégica en consultoría de marketing y negocios para el pilar Business Marketing Strategy (BMS - CREA Y MONETIZA™), integrable en GoHighLevel (GHL) y GitHub Pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
